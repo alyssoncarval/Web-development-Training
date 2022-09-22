@@ -6,10 +6,9 @@ Card hover effects is something of my interest to study. So here, you are going 
 # TecBlog
 
 <div>
-<img>[https://user-images.githubusercontent.com/100323338/191860866-aeee7c8d-d780-45cb-84f5-a67a7c59110b.JPG](https://github.com/alyssoncarval/Web-development-Training/issues/1#issue-1383075920)</img>
+<img src="https://user-images.githubusercontent.com/100323338/191860866-aeee7c8d-d780-45cb-84f5-a67a7c59110b.JPG">
 </div>
 
 <div>
-<img>https://user-images.githubusercontent.com/100323338/191860870-0029b86d-b8bb-4350-b95a-3fe247ca1d90.JPG</img>
+<img src="https://user-images.githubusercontent.com/100323338/191860870-0029b86d-b8bb-4350-b95a-3fe247ca1d90.JPG">
 </div>
-
