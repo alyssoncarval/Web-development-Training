@@ -1,5 +1,5 @@
 # Web-development-Training
-Projects carried out during the Web Development Training by Jorge Sant Ana and Jamilton Damasceno at Udemy.
+Projects developed during the Web Development Training by Jorge Sant Ana and Jamilton Damasceno at Udemy.
 
 Card hover effects is something of my interest to study. So here, you are going to find a collection of card demos with simple hover effects in them. Recreated from Online Tutorials on YouTube and other study sources. Here's what's inside of this repository:
 
