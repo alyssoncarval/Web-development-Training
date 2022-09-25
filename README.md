@@ -6,11 +6,7 @@ Card hover effects is something of my interest to study. So here, you are going 
 # TecBlog
 
 <div>
-<img src="https://user-images.githubusercontent.com/100323338/191860866-aeee7c8d-d780-45cb-84f5-a67a7c59110b.JPG">
-</div>
-
-<div>
-<img src="https://user-images.githubusercontent.com/100323338/191860870-0029b86d-b8bb-4350-b95a-3fe247ca1d90.JPG">
+<img src="https://user-images.githubusercontent.com/100323338/192162973-7e8284e0-39c4-4daa-830f-9b773b0aef1b.png">
 </div>
 
 Final project of the CSS Beginner Course.
