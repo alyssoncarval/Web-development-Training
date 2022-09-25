@@ -13,4 +13,20 @@ Card hover effects is something of my interest to study. So here, you are going 
 <img src="https://user-images.githubusercontent.com/100323338/191860870-0029b86d-b8bb-4350-b95a-3fe247ca1d90.JPG">
 </div>
 
-Final project of the CSS 3 course.
+Final project of the CSS Beginner Course.
+
+# Notícias Cidade
+
+<div>
+<img src="https://user-images.githubusercontent.com/100323338/192162859-846538df-3cd0-474c-be1e-0801fcceeae0.png">
+</div>
+
+<div>
+<img src="https://user-images.githubusercontent.com/100323338/192162860-3f06b268-8754-405b-9f33-c2e788cb4037.png">
+</div>
+
+<div>
+<img src="https://user-images.githubusercontent.com/100323338/192162862-122fb5f4-a7b1-4aed-9025-835439921c65.png">
+</div>
+
+Final project of the CSS Intermediate Course.
