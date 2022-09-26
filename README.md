@@ -24,3 +24,11 @@ Final project of the CSS Beginner Course.
 </div>
 
 Final project of the CSS Intermediate Course.
+
+# Chalé Hotel
+
+<div>
+<img src="https://user-images.githubusercontent.com/100323338/192369271-0e87905d-c9d6-43ea-8866-ca08421c89ab.png">
+</div>
+
+Final project of the CSS Advanced Course.
