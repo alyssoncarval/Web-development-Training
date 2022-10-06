@@ -48,3 +48,11 @@ Html and CSS special features.
 </div>
 
 Bootstrap and responsive design.
+
+# Calculadora
+
+<div>
+<img src="https://user-images.githubusercontent.com/100323338/194388863-0b995617-81fe-4e28-9845-9574dab185b9.png">
+</div>
+
+First JavaScript project.
