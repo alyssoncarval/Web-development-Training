@@ -56,3 +56,11 @@ Bootstrap and responsive design.
 </div>
 
 First JavaScript project.
+
+# Jogo Mata Mosquito
+
+<div>
+<img src="https://user-images.githubusercontent.com/100323338/195692091-4381fb17-77d7-4fa9-a46e-a89ae5c6e79e.png">
+</div>
+
+Second JavaScript project.
